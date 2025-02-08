@@ -5,7 +5,7 @@
 Travel Diary is an Android app built using **Kotlin**, **Jetpack Compose**, and the **MVVM (Model-View-ViewModel)** architecture. The app allows users to create, edit, and delete travel entries. Users can also add locations on the map, provide a trip title, and add notes for each travel experience. The app manages all data locally with the help of **Room** for storage and persistence.
 
 ## Setup
-Make sure add your Google Geo API key to **both strings.xml in res/values/strings**.
+Make sure to configure your credentials from https://www.brevo.com in **local.properties** to send emails. Also add your Google Geo API key to **both strings.xml in res/values/strings**.
 
 ## Features
 
