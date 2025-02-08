@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Cednik</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!--TODO add your key-->
+    <string name="apiKey">YOUR_API_KEY</string>
+    <string name="account_has_been_updated">Účet byl aktualizován</string>
+    <string name="submit">Zveřejnit</string>
+    <string name="your_account">Váš účet</string>
+    <string name="password">Heslo</string>
+    <string name="app_version">"Verze aplikace: "</string>
+    <string name="language">Jazyk</string>
+    <string name="cannot_be_empty">Nesmí být prázdné</string>
+    <string name="new_account_email">Ahoj, toto je tvůj nový email pro Cednik účet.</string>
+    <string name="changed_account_email">Ahoj, změnil jsi svůj Cednik email na %1$s</string>
+    <string name="changed_account_password">Ahoj, změnil jsi heslo k tvému Cednik účtu.</string>
+    <string name="email_is_already_used">Email je již použit</string>
+    <string name="invalid_email">Neplatný email</string>
+    <string name="add_journey">Přidat cestu</string>
+    <string name="name">Název</string>
+    <string name="loading_your_location">Načítání polohy</string>
+    <string name="note">Poznámka</string>
+    <string name="could_not_load_a_location">Nepovedlo se načíst polohu</string>
+    <string name="your_journeys">Vaše cesty</string>
+    <string name="you_have_no_journeys">Nemáte žádné cesty</string>
+    <string name="loading_map">Načítání mapy</string>
+    <string name="log_in">Přihlásit se</string>
+    <string name="forgot_password">Zapomenuté heslo</string>
+    <string name="sign_up">Zaregistrovat se</string>
+    <string name="wrong_email">Špatný email</string>
+    <string name="wrong_password">Špatné heslo</string>
+    <string name="map">Mapa</string>
+    <string name="enter_your_location">Zadejte lokaci k vyhledání</string>
+    <string name="password_has_been_sent">Heslo bylo zasláno na Váš email</string>
+    <string name="password_recovery">Zapomenuté heslo</string>
+    <string name="recover_password">Obnovit heslo</string>
+    <string name="this_account_doesn_t_exist">Tento účet neexistuje</string>
+    <string name="password_mail"><![CDATA[<h1>Ahoj, zde je tvé heslo: <b>%1$s</b><h1>]]></string>
+    <string name="account_details_changed">Údaje účtu změneny</string>
+    <string name="registration">Registrace</string>
+    <string name="password_again">Heslo znovu</string>
+    <string name="passwords_must_match">Hesla se musí shodovat</string>
+    <string name="welcome_to_cednik">Vítejte v Cednik</string>
+    <string name="welcome_to_cednik_mail"><![CDATA[<h1>Ahoj, vítejte v aplikaci Cednik ❤</h1>]]></string>
+    <string name="no_places_found">Nebyla nalezena žádná místa</string>
+    <string name="text_query_must_not_be_an_empty_string">Nelze vyhledat prázdný text</string>
+</resources>

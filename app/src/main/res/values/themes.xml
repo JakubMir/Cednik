@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.MySplashScreen" parent="Theme.SplashScreen">
+        <item name="android:windowSplashScreenBackground" tools:targetApi="upside_down_cake">@android:color/system_primary_dark</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.Cednik</item>
+    </style>
+    <style name="Theme.Cednik" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
